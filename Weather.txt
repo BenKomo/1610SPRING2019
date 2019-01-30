@@ -3,4 +3,8 @@ Orem, 33 degrees with snow showers
 =======
 Orem, 26 degrees mostly cloudy
 >>>>>>> master
-Orem, 34 degrees with rain 
+<<<<<<< HEAD
+Orem, 32 degrees with clouds
+=======
+Orem, 20 drgrees, with some clouds
+>>>>>>> master
