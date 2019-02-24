@@ -9,3 +9,4 @@ Orem, 32 degrees with clouds
 Orem, 20 drgrees, with some clouds
 >>>>>>> master
 Orem, 23 degrees, with a chance of snow
+Orem, 20 degrees with a light fog
