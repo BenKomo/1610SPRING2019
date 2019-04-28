@@ -35,3 +35,4 @@ Orem, 60 degrees with clear skies
 Orem, 58 with clouds
 Orem, 46 wtih clouds
 Orem, 50 with rain
+Orem, 68 degrees with clouds
